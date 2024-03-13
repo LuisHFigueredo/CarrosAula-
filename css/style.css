@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body {
+    font-family:'Open Sans', 'Times New Roman';
+    background: #416145;
+}
+
+td {
+    background: #f2e9d8;
+    text-align: center;
+    color: #000000;
+    padding: 8px;
+    
+}
+
+th {
+    background: #494545;
+    color: #f2e9d8;
+    padding: 8px;
+}
+
+h1 {
+    color: #030303;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+h2 {
+    color: #553517;
+    font-size: 22px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #4e2710;
+    margin-top: 24px;
+}
+
+img{
+    border-radius: 25%;
+    width: 150px;
+}
+
+.center{
+    text-align: center;
+}
+
+.direita {
+    text-align: right;
+    font-weight: bold;
+}
+
+.esquerda {
+    text-align: left;
+}
